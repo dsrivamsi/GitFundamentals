@@ -1,3 +1,3 @@
 # GitFundamentals
 
-Adding this from GitHub.com
+Adding this README.txt file from GitHub.com
